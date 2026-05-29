@@ -1,6 +1,6 @@
 # rhi
 
-Glue layer for computers.
+Substrates for developer/technical purposes — tooling, libraries, protocols, and engines.
 
 ### Code Intelligence
 
