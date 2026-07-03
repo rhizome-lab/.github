@@ -9,6 +9,7 @@ Substrates for developer/technical purposes — tooling, libraries, protocols, a
 | [normalize](https://github.com/rhi-zone/normalize) | Structural code intelligence for humans and AI agents |
 | [gels](https://github.com/rhi-zone/gels) | Trait-based grammar inference engine |
 | [motif](https://github.com/rhi-zone/motif) | Structural exploration of mathematics |
+| [graphlet](https://github.com/rhi-zone/graphlet) | Petgraph-native graphlet analysis and subgraph mining |
 
 ### Generation
 
